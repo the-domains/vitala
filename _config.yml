@@ -1,0 +1,14 @@
+layout_spectrum: 0.2634408
+color:
+  saturation: 0.9934582
+  brandStrength: 0.1813361
+  lightness: 0.7634408
+  rhythmicContrast: 0.6070951
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.1971326
+name: Vitala
